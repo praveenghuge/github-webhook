@@ -1,0 +1,35 @@
+[{
+	"meter_name": "Log Analytics Data Ingestion",
+	"meter_category": "App Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 4.03
+	},
+	"included_quantity": 5.0,
+	"meter_id": "c9119dea-52ea-4dfb-a7ab-b15e65f95818",
+	"effective_date": {
+		"year": 2017,
+		"day": 15,
+		"month": 12
+	},
+	"meter_sub_category": "",
+	"unit": "1 GB"
+}, {
+	"meter_name": "Log Analytics Data Retention",
+	"meter_category": "App Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.18
+	},
+	"included_quantity": 0.0,
+	"meter_id": "971367fb-1c15-4384-89ac-1c07599b10eb",
+	"effective_date": {
+		"year": 2017,
+		"day": 15,
+		"month": 12
+	},
+	"meter_sub_category": "",
+	"unit": "1 GB"
+}]
