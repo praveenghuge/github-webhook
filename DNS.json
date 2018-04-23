@@ -1,0 +1,103 @@
+[{
+	"meter_name": "Application Gateway Hours",
+	"meter_category": "Networking",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.50176
+	},
+	"included_quantity": 0.0,
+	"meter_id": "4bcf62b8-d48a-49fa-a11d-d78edf3e7fe5",
+	"effective_date": {
+		"year": 2016,
+		"day": 1,
+		"month": 11
+	},
+	"meter_sub_category": "WAF Application Gateway (Large)",
+	"unit": "Hours"
+}, {
+	"meter_name": "Application Gateway Hours",
+	"meter_category": "Networking",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.0784
+	},
+	"included_quantity": 0.0,
+	"meter_id": "a543af92-d76e-4d22-83fd-dd775ea4ab08",
+	"effective_date": {
+		"year": 2015,
+		"day": 1,
+		"month": 5
+	},
+	"meter_sub_category": "Basic Application Gateway (Medium)",
+	"unit": "Hours"
+}, {
+	"meter_name": "Application Gateway Hours",
+	"meter_category": "Networking",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.028
+	},
+	"included_quantity": 0.0,
+	"meter_id": "b2cc5210-7ffa-41f0-9525-bdd47947ece2",
+	"effective_date": {
+		"year": 2015,
+		"day": 1,
+		"month": 5
+	},
+	"meter_sub_category": "Basic Application Gateway (Small)",
+	"unit": "Hours"
+}, {
+	"meter_name": "Application Gateway Hours",
+	"meter_category": "Networking",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.3584
+	},
+	"included_quantity": 0.0,
+	"meter_id": "15cd325a-c594-438e-8e0b-9598de1ad57a",
+	"effective_date": {
+		"year": 2015,
+		"day": 1,
+		"month": 5
+	},
+	"meter_sub_category": "Basic Application Gateway (Large)",
+	"unit": "Hours"
+}, {
+	"meter_name": "Application Gateway Hours",
+	"meter_category": "Networking",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.14112
+	},
+	"included_quantity": 0.0,
+	"meter_id": "0051d9fa-fb72-42cb-93b6-94dd624e48cf",
+	"effective_date": {
+		"year": 2016,
+		"day": 1,
+		"month": 11
+	},
+	"meter_sub_category": "WAF Application Gateway (Medium)",
+	"unit": "Hours"
+}, {
+	"meter_name": "Data transfer - Geo-Replication (GB)",
+	"meter_category": "Networking",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.0
+	},
+	"included_quantity": 0.0,
+	"meter_id": "0dc6943f-8742-4a62-8db2-44b61c7fe953",
+	"effective_date": {
+		"year": 2015,
+		"day": 1,
+		"month": 10
+	},
+	"meter_sub_category": "Geo Redundant",
+	"unit": "GB"
+}]
