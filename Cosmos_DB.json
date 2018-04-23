@@ -1,0 +1,1429 @@
+[{
+	"meter_name": "Backup Storage (GRS)",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.125
+	},
+	"included_quantity": 0.0,
+	"meter_id": "029ab728-f6e2-4f33-b9d5-01e28ce7199f",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 GB"
+}, {
+	"meter_name": "MI Bus Critical Base Rate vCore",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.2375
+	},
+	"included_quantity": 0.0,
+	"meter_id": "5e44b8a7-96fb-4e77-ac5d-11346299025f",
+	"effective_date": {
+		"year": 2017,
+		"day": 19,
+		"month": 9
+	},
+	"meter_sub_category": "SQL Database",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Storage (GB)",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.25
+	},
+	"included_quantity": 0.0,
+	"meter_id": "0dc2fd3e-fe0b-4172-8c53-297851a3d2d1",
+	"effective_date": {
+		"year": 2016,
+		"day": 22,
+		"month": 2
+	},
+	"meter_sub_category": "Cosmos DB",
+	"unit": "GB"
+}, {
+	"meter_name": "Backup Storage (LRS)",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.0625
+	},
+	"included_quantity": 0.0,
+	"meter_id": "c9d0d610-5e52-442e-801e-eeef1670d30f",
+	"effective_date": {
+		"year": 2017,
+		"day": 20,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 GB"
+}, {
+	"meter_name": "Basic Storage",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.06875
+	},
+	"included_quantity": 0.0,
+	"meter_id": "51d5fc8c-ddc9-4a96-ad20-3b278759ffed",
+	"effective_date": {
+		"year": 2017,
+		"day": 20,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 GB"
+}, {
+	"meter_name": "Basic 2vCore G5",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.065
+	},
+	"included_quantity": 0.0,
+	"meter_id": "6adab1f7-197b-43b4-b0b8-7e9b9f75c7ba",
+	"effective_date": {
+		"year": 2017,
+		"day": 1,
+		"month": 12
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Perf Opt Storage",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.1725
+	},
+	"included_quantity": 0.0,
+	"meter_id": "8c2f2dc7-172c-40b7-9d51-31606a78265f",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 GB"
+}, {
+	"meter_name": "Storage Opt vCore G5",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.161875
+	},
+	"included_quantity": 0.0,
+	"meter_id": "279ac3c3-fa9a-4620-bc1b-0f826f8696c0",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Storage Opt vCore ReadRep G5",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.161875
+	},
+	"included_quantity": 0.0,
+	"meter_id": "1172fa94-7b36-4036-aa9f-45128bd5569c",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Mem and Storage Opt vCore G4",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.178125
+	},
+	"included_quantity": 0.0,
+	"meter_id": "94b3cc9b-b175-4448-9c8e-a294e9c44ada",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Storage Opt vCore ReadRep G5",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.161875
+	},
+	"included_quantity": 0.0,
+	"meter_id": "72c10393-e842-4cf3-8134-218f658bc469",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Gen Pur vCore G4",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.080937
+	},
+	"included_quantity": 0.0,
+	"meter_id": "738d6077-818a-4bd4-966a-28a1c112adc8",
+	"effective_date": {
+		"year": 2017,
+		"day": 20,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "MI Gen Purpose Storage",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.08625
+	},
+	"included_quantity": 0.0,
+	"meter_id": "4aaac207-2fa3-42be-82cd-c64cbf98977c",
+	"effective_date": {
+		"year": 2017,
+		"day": 19,
+		"month": 9
+	},
+	"meter_sub_category": "SQL Database",
+	"unit": "GB"
+}, {
+	"meter_name": "Basic Compute Unit",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.000619
+	},
+	"included_quantity": 0.0,
+	"meter_id": "bab5a142-81b9-417f-855e-5d54e6eb43fe",
+	"effective_date": {
+		"year": 2017,
+		"day": 1,
+		"month": 4
+	},
+	"meter_sub_category": "Azure Database for Postgres",
+	"unit": "Hours"
+}, {
+	"meter_name": "MI Gen Purpose Base Rate vCore",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.11875
+	},
+	"included_quantity": 0.0,
+	"meter_id": "66c85e17-2972-4dda-9ed7-ae191b2c95c2",
+	"effective_date": {
+		"year": 2017,
+		"day": 19,
+		"month": 9
+	},
+	"meter_sub_category": "SQL Database",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Perf Opt IO Rate",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.1375
+	},
+	"included_quantity": 0.0,
+	"meter_id": "d7107361-e0c0-4fa0-85c3-2e5bcd44a23b",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1M Operations"
+}, {
+	"meter_name": "Gen Pur Storage",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.08625
+	},
+	"included_quantity": 0.0,
+	"meter_id": "6120007b-492a-46c7-baf2-003f421a8efd",
+	"effective_date": {
+		"year": 2017,
+		"day": 20,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 GB"
+}, {
+	"meter_name": "S3 DocumentDB Hours",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.134
+	},
+	"included_quantity": 0.0,
+	"meter_id": "7d154811-9adf-410f-a44f-264b2c0bb928",
+	"effective_date": {
+		"year": 2015,
+		"day": 1,
+		"month": 6
+	},
+	"meter_sub_category": "DocumentDB",
+	"unit": "Hours"
+}, {
+	"meter_name": "MI Bus Critical SQL Server vCore",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.1875
+	},
+	"included_quantity": 0.0,
+	"meter_id": "3831bd12-8f3f-4563-bdb6-e6e3142bb7f4",
+	"effective_date": {
+		"year": 2017,
+		"day": 19,
+		"month": 9
+	},
+	"meter_sub_category": "SQL Database",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Mem and Storage Opt vCore ReadRep G5",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.178125
+	},
+	"included_quantity": 0.0,
+	"meter_id": "caa5b513-7df4-44ab-af51-16f35682b2d3",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Basic 2vCore G5",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.065
+	},
+	"included_quantity": 0.0,
+	"meter_id": "c8f2e7a6-5d69-4844-a0d0-9959d5dc6bc2",
+	"effective_date": {
+		"year": 2017,
+		"day": 1,
+		"month": 12
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Mem Opt vCore ReadRep G5",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.089063
+	},
+	"included_quantity": 0.0,
+	"meter_id": "98d243ca-f6da-4e0a-bc9a-c4584cca2dc7",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Basic vCore G5",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.0325
+	},
+	"included_quantity": 0.0,
+	"meter_id": "b5e9c290-4045-4f8f-a3a6-c65de2ba796a",
+	"effective_date": {
+		"year": 2017,
+		"day": 20,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "cDWU",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 1.02825
+	},
+	"included_quantity": 0.0,
+	"meter_id": "dbe469a8-2f51-47da-b85f-633fde6e09d1",
+	"effective_date": {
+		"year": 2017,
+		"day": 30,
+		"month": 12
+	},
+	"meter_sub_category": "SQL Data Warehouse",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Backup Storage (LRS)",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.0625
+	},
+	"included_quantity": 0.0,
+	"meter_id": "6cf05145-aefe-4217-b292-b44e801d089a",
+	"effective_date": {
+		"year": 2017,
+		"day": 20,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 GB"
+}, {
+	"meter_name": "Basic vCore G4",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.0325
+	},
+	"included_quantity": 0.0,
+	"meter_id": "83ab4175-fa00-4b5a-82cc-401397751b53",
+	"effective_date": {
+		"year": 2017,
+		"day": 20,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Mem Opt vCore G4",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.089062
+	},
+	"included_quantity": 0.0,
+	"meter_id": "0aaaaaa4-8ca5-4a50-be5f-d32c5e5e6d86",
+	"effective_date": {
+		"year": 2017,
+		"day": 20,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Mem and Storage Opt vCore G4",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.178125
+	},
+	"included_quantity": 0.0,
+	"meter_id": "8d68d322-a0e0-4b0e-af7e-39957a46664e",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Basic vCore G5",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.0325
+	},
+	"included_quantity": 0.0,
+	"meter_id": "d0833683-b808-42cd-a8f1-059f6f9af0dc",
+	"effective_date": {
+		"year": 2017,
+		"day": 20,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Basic Compute Unit",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.000619
+	},
+	"included_quantity": 0.0,
+	"meter_id": "b0b0c9ac-7fb2-481f-bca3-e3606d5e207d",
+	"effective_date": {
+		"year": 2017,
+		"day": 1,
+		"month": 4
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "Hours"
+}, {
+	"meter_name": "MI Backup Storage",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.0625
+	},
+	"included_quantity": 0.0,
+	"meter_id": "3633f960-90d0-4466-b629-38e2c362dfcd",
+	"effective_date": {
+		"year": 2017,
+		"day": 19,
+		"month": 9
+	},
+	"meter_sub_category": "SQL Database",
+	"unit": "GB"
+}, {
+	"meter_name": "Basic Storage",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.108236
+	},
+	"included_quantity": 0.0,
+	"meter_id": "d61ce90e-328e-47c2-9a5f-4b73e7715aa2",
+	"effective_date": {
+		"year": 2017,
+		"day": 21,
+		"month": 4
+	},
+	"meter_sub_category": "Azure Database for Postgres",
+	"unit": "Month"
+}, {
+	"meter_name": "LTR LRS Backup Storage",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.024
+	},
+	"included_quantity": 0.0,
+	"meter_id": "f77c87fb-da99-4157-bfbc-d9731ae3266b",
+	"effective_date": {
+		"year": 2018,
+		"day": 30,
+		"month": 1
+	},
+	"meter_sub_category": "SQL Database",
+	"unit": "1 GB"
+}, {
+	"meter_name": "Requests Per Minute (1000)",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.002688
+	},
+	"included_quantity": 0.0,
+	"meter_id": "51b694fe-f1ca-4984-a052-445f4d8b35a8",
+	"effective_date": {
+		"year": 2017,
+		"day": 1,
+		"month": 5
+	},
+	"meter_sub_category": "Cosmos DB",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Basic IO Rate",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.06875
+	},
+	"included_quantity": 0.0,
+	"meter_id": "e7ec4daa-9746-4077-b010-5a4c543a49b8",
+	"effective_date": {
+		"year": 2017,
+		"day": 20,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1M Operations"
+}, {
+	"meter_name": "Basic 2vCore G4",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.065
+	},
+	"included_quantity": 0.0,
+	"meter_id": "0f9a7496-14b7-480d-b66e-b79d4356bf88",
+	"effective_date": {
+		"year": 2017,
+		"day": 1,
+		"month": 12
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "MI Bus Critical Storage",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.1725
+	},
+	"included_quantity": 0.0,
+	"meter_id": "fdd71b93-ad9c-4119-9c9a-746d97252f03",
+	"effective_date": {
+		"year": 2017,
+		"day": 19,
+		"month": 9
+	},
+	"meter_sub_category": "SQL Database",
+	"unit": "GB"
+}, {
+	"meter_name": "Mem and Storage Opt vCore ReadRep G4",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.178125
+	},
+	"included_quantity": 0.0,
+	"meter_id": "3a99badb-afee-413b-8bbe-32b60a499b45",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "S1 DocumentDB Hours",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.034
+	},
+	"included_quantity": 0.0,
+	"meter_id": "46a4598f-bd08-4614-b2a3-75b147499c7d",
+	"effective_date": {
+		"year": 2015,
+		"day": 1,
+		"month": 6
+	},
+	"meter_sub_category": "DocumentDB",
+	"unit": "Hours"
+}, {
+	"meter_name": "Gen Pur vCore G4",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.080937
+	},
+	"included_quantity": 0.0,
+	"meter_id": "efdb8dd8-8e95-401b-9605-7267b62eafcc",
+	"effective_date": {
+		"year": 2017,
+		"day": 20,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "S2 DocumentDB Hours",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.067
+	},
+	"included_quantity": 0.0,
+	"meter_id": "bdb75818-345e-4312-a841-ec111bf62c5a",
+	"effective_date": {
+		"year": 2015,
+		"day": 1,
+		"month": 6
+	},
+	"meter_sub_category": "DocumentDB",
+	"unit": "Hours"
+}, {
+	"meter_name": "Basic vCore ReadRep G4",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.0325
+	},
+	"included_quantity": 0.0,
+	"meter_id": "d2a5512a-4d2a-4075-8672-db5d8e8f76f4",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Standard Compute Unit",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.001471
+	},
+	"included_quantity": 0.0,
+	"meter_id": "0b00263d-42f9-44de-b928-7b7b611638c0",
+	"effective_date": {
+		"year": 2017,
+		"day": 1,
+		"month": 4
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "Hours"
+}, {
+	"meter_name": "Basic Storage",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.06875
+	},
+	"included_quantity": 0.0,
+	"meter_id": "c69da191-1e62-467f-a25f-81f502845024",
+	"effective_date": {
+		"year": 2017,
+		"day": 20,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 GB"
+}, {
+	"meter_name": "Mem and Storage Opt vCore ReadRep G4",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.178125
+	},
+	"included_quantity": 0.0,
+	"meter_id": "457dd113-e95b-4f33-aea1-3c39a701b2ff",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Gen Pur vCore ReadRep G5",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.080938
+	},
+	"included_quantity": 0.0,
+	"meter_id": "e40d8902-abeb-4b95-8e28-7c6039c6d301",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "MI Gen Purpose SQL Server vCore",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.049983
+	},
+	"included_quantity": 0.0,
+	"meter_id": "812d663b-7f61-45a1-8a5a-8344a167b99f",
+	"effective_date": {
+		"year": 2017,
+		"day": 19,
+		"month": 9
+	},
+	"meter_sub_category": "SQL Database",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Mem and Storage Opt vCore G5",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.178125
+	},
+	"included_quantity": 0.0,
+	"meter_id": "76b9976c-5192-4490-b363-95b71867cd02",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Storage Opt vCore G4",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.161875
+	},
+	"included_quantity": 0.0,
+	"meter_id": "76f907e5-51d4-4d11-b2d1-8a8f2188ede0",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Basic 2vCore G4",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.065
+	},
+	"included_quantity": 0.0,
+	"meter_id": "f5877998-7e06-408d-b287-98a190031d36",
+	"effective_date": {
+		"year": 2017,
+		"day": 1,
+		"month": 12
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "100 Request Units (Hours)",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.008
+	},
+	"included_quantity": 0.0,
+	"meter_id": "7f4afbf4-59ed-43d3-9884-9b4f5893ae76",
+	"effective_date": {
+		"year": 2016,
+		"day": 22,
+		"month": 2
+	},
+	"meter_sub_category": "Cosmos DB",
+	"unit": "Hours"
+}, {
+	"meter_name": "Basic IO Rate",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.06875
+	},
+	"included_quantity": 0.0,
+	"meter_id": "39a71a3e-d082-4320-84f5-296e413feeb2",
+	"effective_date": {
+		"year": 2017,
+		"day": 20,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1M Operations"
+}, {
+	"meter_name": "MI IO Rate",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.156058
+	},
+	"included_quantity": 0.0,
+	"meter_id": "a6718ed5-5a08-4ec6-9058-ed5d9071e486",
+	"effective_date": {
+		"year": 2017,
+		"day": 19,
+		"month": 9
+	},
+	"meter_sub_category": "SQL Database",
+	"unit": "1M Operations"
+}, {
+	"meter_name": "Standard Storage",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.112102
+	},
+	"included_quantity": 0.0,
+	"meter_id": "4fa8e6e9-4603-468d-8549-1eeb28324a16",
+	"effective_date": {
+		"year": 2017,
+		"day": 21,
+		"month": 4
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "Month"
+}, {
+	"meter_name": "Mem Opt vCore G5",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.089062
+	},
+	"included_quantity": 0.0,
+	"meter_id": "2cbb58d8-9a77-4a99-89f3-b831968c3064",
+	"effective_date": {
+		"year": 2017,
+		"day": 20,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Perf Opt IO Rate",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.1375
+	},
+	"included_quantity": 0.0,
+	"meter_id": "aff45c82-ab9a-4b1a-bc5f-98eca98ebb14",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1M Operations"
+}, {
+	"meter_name": "Mem Opt vCore ReadRep G4",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.089063
+	},
+	"included_quantity": 0.0,
+	"meter_id": "a6981f04-b079-4bbe-8e20-7c1f6850471e",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Basic vCore ReadRep G4",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.0325
+	},
+	"included_quantity": 0.0,
+	"meter_id": "e4b2b878-8c93-43d5-ae58-bacea3bea64c",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Basic vCore ReadRep G5",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.0325
+	},
+	"included_quantity": 0.0,
+	"meter_id": "6438050f-def3-4578-9a2c-20e4a466c666",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "LTR RA-GRS Backup Storage",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.06
+	},
+	"included_quantity": 0.0,
+	"meter_id": "fac8363d-78cf-4a83-9719-fe313810f516",
+	"effective_date": {
+		"year": 2018,
+		"day": 30,
+		"month": 1
+	},
+	"meter_sub_category": "SQL Database",
+	"unit": "1 GB"
+}, {
+	"meter_name": "Backup Storage (GRS)",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.125
+	},
+	"included_quantity": 0.0,
+	"meter_id": "d19cb464-2c5d-45ff-9d28-3dde25ffdc6e",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 GB"
+}, {
+	"meter_name": "Mem Opt vCore G4",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.089062
+	},
+	"included_quantity": 0.0,
+	"meter_id": "041dcaab-c665-4549-8b90-002d9229636c",
+	"effective_date": {
+		"year": 2017,
+		"day": 20,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Storage Opt vCore G4",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.161875
+	},
+	"included_quantity": 0.0,
+	"meter_id": "305ca564-c978-44fd-93e6-867a7a4eafdf",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Basic Storage",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.108236
+	},
+	"included_quantity": 0.0,
+	"meter_id": "0737d5fa-5f22-4a90-b89b-91bdf3e32fa2",
+	"effective_date": {
+		"year": 2017,
+		"day": 21,
+		"month": 4
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "Month"
+}, {
+	"meter_name": "Standard Compute Unit",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.001471
+	},
+	"included_quantity": 0.0,
+	"meter_id": "86b773df-ac29-459a-b245-61b12d18b02c",
+	"effective_date": {
+		"year": 2017,
+		"day": 1,
+		"month": 4
+	},
+	"meter_sub_category": "Azure Database for Postgres",
+	"unit": "Hours"
+}, {
+	"meter_name": "Mem and Storage Opt vCore ReadRep G5",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.178125
+	},
+	"included_quantity": 0.0,
+	"meter_id": "83b2073f-67da-4e3d-bdea-f0c042b0302f",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Gen Pur Storage",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.08625
+	},
+	"included_quantity": 0.0,
+	"meter_id": "be97e596-45ec-49d4-8b51-2f22a45a81a1",
+	"effective_date": {
+		"year": 2017,
+		"day": 20,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 GB"
+}, {
+	"meter_name": "Basic vCore ReadRep G5",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.0325
+	},
+	"included_quantity": 0.0,
+	"meter_id": "9eba85ea-241b-401a-99c5-b61678b4b5be",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Mem Opt vCore ReadRep G5",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.089063
+	},
+	"included_quantity": 0.0,
+	"meter_id": "bff0e506-c892-4061-9884-5196acc2f268",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Gen Pur vCore ReadRep G4",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.080938
+	},
+	"included_quantity": 0.0,
+	"meter_id": "f015a0a4-d909-410d-8a6c-bd94acdf3c84",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Mem Opt vCore G5",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.089062
+	},
+	"included_quantity": 0.0,
+	"meter_id": "db7cdecd-1e07-4506-904e-396ceb2930ce",
+	"effective_date": {
+		"year": 2017,
+		"day": 20,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Gen Pur vCore G5",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.080937
+	},
+	"included_quantity": 0.0,
+	"meter_id": "004f3efa-4b60-44cd-8480-f98f4a7472ac",
+	"effective_date": {
+		"year": 2017,
+		"day": 20,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Mem Opt vCore ReadRep G4",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.089063
+	},
+	"included_quantity": 0.0,
+	"meter_id": "67be5fe3-d067-4464-890d-51b25c186148",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Storage Opt vCore ReadRep G4",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.161875
+	},
+	"included_quantity": 0.0,
+	"meter_id": "de03521c-3b4d-4c17-b4b4-358da7d162aa",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Storage Opt vCore G5",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.161875
+	},
+	"included_quantity": 0.0,
+	"meter_id": "53a9af4d-7fd8-4a7f-acc7-71485cd531dc",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Standard Storage",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.112102
+	},
+	"included_quantity": 0.0,
+	"meter_id": "ace45908-92b0-4968-ac09-12d240b72647",
+	"effective_date": {
+		"year": 2017,
+		"day": 21,
+		"month": 4
+	},
+	"meter_sub_category": "Azure Database for Postgres",
+	"unit": "Month"
+}, {
+	"meter_name": "Mem and Storage Opt vCore G5",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.178125
+	},
+	"included_quantity": 0.0,
+	"meter_id": "c088f451-7182-4c98-a7c9-1c5dd197011b",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Storage Opt vCore ReadRep G4",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.161875
+	},
+	"included_quantity": 0.0,
+	"meter_id": "2b2cad75-d4d4-4c09-a864-0a94e834ba79",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Gen Pur vCore G5",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.080937
+	},
+	"included_quantity": 0.0,
+	"meter_id": "bc0ad080-8af6-46b9-b585-aad153bed916",
+	"effective_date": {
+		"year": 2017,
+		"day": 20,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Gen Pur vCore ReadRep G4",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.080938
+	},
+	"included_quantity": 0.0,
+	"meter_id": "9efc0c7a-49e7-4475-b92e-6db91b51ac10",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Perf Opt Storage",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.1725
+	},
+	"included_quantity": 0.0,
+	"meter_id": "b739c5bf-6751-4405-b59b-90f4797a4983",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 GB"
+}, {
+	"meter_name": "Basic vCore G4",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.0325
+	},
+	"included_quantity": 0.0,
+	"meter_id": "49863e6e-c404-48c6-90e4-5e789cc7a935",
+	"effective_date": {
+		"year": 2017,
+		"day": 20,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for PostgreSQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "Gen Pur vCore ReadRep G5",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 0.080938
+	},
+	"included_quantity": 0.0,
+	"meter_id": "01e1cff6-587b-45b9-ab89-ff7b61ef4ee9",
+	"effective_date": {
+		"year": 2017,
+		"day": 3,
+		"month": 10
+	},
+	"meter_sub_category": "Azure Database for MySQL",
+	"unit": "1 Hour"
+}, {
+	"meter_name": "DWU",
+	"meter_category": "Data Services",
+	"meter_tags": [],
+	"meter_region": "AP East",
+	"meter_rates": {
+		"0": 2.0565
+	},
+	"included_quantity": 0.0,
+	"meter_id": "f6522325-5263-4a7f-a8c3-0c0d127da4dd",
+	"effective_date": {
+		"year": 2016,
+		"day": 1,
+		"month": 9
+	},
+	"meter_sub_category": "SQL Data Warehouse",
+	"unit": "Hours"
+}]
