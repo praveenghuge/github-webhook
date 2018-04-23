@@ -1,0 +1,69 @@
+[{
+	"meter_name": "Registry Unit",
+	"meter_category": "Container Registry",
+	"meter_tags": [],
+	"meter_region": "",
+	"meter_rates": {
+		"0": 0.6666
+	},
+	"included_quantity": 0.0,
+	"meter_id": "984c39d8-2499-4233-8a97-fb002a809f8f",
+	"effective_date": {
+		"year": 2018,
+		"day": 1,
+		"month": 1
+	},
+	"meter_sub_category": "Standard",
+	"unit": "Day"
+}, {
+	"meter_name": "Build",
+	"meter_category": "Container Registry",
+	"meter_tags": [],
+	"meter_region": "",
+	"meter_rates": {
+		"0": 0.0017
+	},
+	"included_quantity": 120.0,
+	"meter_id": "054c19f8-87a8-467f-88b4-4c5f156aaa52",
+	"effective_date": {
+		"year": 2017,
+		"day": 17,
+		"month": 11
+	},
+	"meter_sub_category": "",
+	"unit": "1 Minute"
+}, {
+	"meter_name": "Registry Unit",
+	"meter_category": "Container Registry",
+	"meter_tags": [],
+	"meter_region": "",
+	"meter_rates": {
+		"0": 1.6666
+	},
+	"included_quantity": 0.0,
+	"meter_id": "2f8e1105-47d0-4105-a934-b2175c766a71",
+	"effective_date": {
+		"year": 2018,
+		"day": 1,
+		"month": 1
+	},
+	"meter_sub_category": "Premium",
+	"unit": "Day"
+}, {
+	"meter_name": "Registry Unit",
+	"meter_category": "Container Registry",
+	"meter_tags": [],
+	"meter_region": "",
+	"meter_rates": {
+		"0": 0.1666
+	},
+	"included_quantity": 0.0,
+	"meter_id": "5c9e7a65-5784-494c-9718-7749d4075dd9",
+	"effective_date": {
+		"year": 2018,
+		"day": 1,
+		"month": 1
+	},
+	"meter_sub_category": "Basic",
+	"unit": "Day"
+}]
